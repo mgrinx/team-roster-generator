@@ -1,7 +1,7 @@
 {
-  "name": "unit10hw",
+  "name": "team-roster-generator",
   "version": "1.0.0",
-  "description": "OOP and testing for week 10 homework",
+  "description": "generates html team roster",
   "main": "app.js",
   "directories": {
     "lib": "lib",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
+    "url": "git+https://github.com/mgrinx/team-roster-generator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/mgrinx/team-roster-generator/issues"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
+  "homepage": "https://github.com/mgrinx/team-roster-generator#readme",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
